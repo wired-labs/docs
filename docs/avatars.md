@@ -30,3 +30,4 @@ Avatars are categorized into performance ranks, depending on how optimized they 
 | Good      | 10,000   | 1         | 1      | 1     | 90    |
 | Medium    | 15,000   | 2         | 2      | 2     | 150   |
 | Poor      | 20,000   | 4         | 2      | 2     | 150   |
+| Very Poor | ∞        | ∞         | ∞      | ∞     | ∞     |
