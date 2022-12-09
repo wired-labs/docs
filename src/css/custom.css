@@ -47,7 +47,7 @@
 
 .large-img > img {
   border-radius: 0.5rem;
-  border: 1px solid #dddddd;
+  border: 1px solid #dadde1;
 }
 
 [data-theme='dark'] .large-img > img {

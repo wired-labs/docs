@@ -11,7 +11,7 @@ A space is a 3D multiplayer environment. Spaces are the core building block of t
 Spaces are created for free using the editor.
 
 <div class="large-img">
-  <img src="/img/Editor.png" alt="Editor" width="80%" />
+  <img src="/img/Editor.png" alt="Editor" />
 </div>
 
 Space scenes are stored as [glTF](https://www.khronos.org/gltf/) models. The exciting thing about glTF is that its an open file format supported by many engines. Scenes you create in the editor can be opened in 3D tools like Blender, Unity, and Unreal Engine - or used in other platforms like [Webaverse](https://twitter.com/webaverse).

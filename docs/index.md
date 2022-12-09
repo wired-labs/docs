@@ -8,7 +8,7 @@ The Wired is an open and decentralized web-based metaverse platform.
 
 The Wired reimagines the web as an **interconnected network of 3D spaces**, instead of 2D pages - all while running on open standards and decentralized infrastructure. You can access the Wired through any browser, on any device.
 
-### 🔥 Features
+## 🔥 Features
 
 - Decentralized identity / social graph using [Lens Protocol 🌿](https://lens.dev/)
 - Open backend, anyone can run their own servers
