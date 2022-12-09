@@ -8,11 +8,17 @@ A space is a 3D multiplayer environment. Spaces are the core building block of t
 
 ## 🎨 Creation
 
-Spaces are created for free using the visual editor - visit the [thewired.space/create](https://www.thewired.space/create) to create a new project and start building.
+Spaces are created for free using the editor.
+
+<div class="large-img">
+  <img src="/img/Editor.png" alt="Editor" width="80%" />
+</div>
 
 Space scenes are stored as [glTF](https://www.khronos.org/gltf/) models. The exciting thing about glTF is that its an open file format supported by many engines. Scenes you create in the editor can be opened in 3D tools like Blender, Unity, and Unreal Engine - or used in other platforms like [Webaverse](https://twitter.com/webaverse).
 
 It also works the other direction - you can create models in powerful tools like Blender, then import them into the editor and use them in your space.
+
+Visit [thewired.space/create](https://www.thewired.space/create) to create a new project and start building your space.
 
 ## 🌿 Publishing
 
