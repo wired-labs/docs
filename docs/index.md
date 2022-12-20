@@ -10,7 +10,7 @@ The Wired reimagines the web as an **interconnected network of 3D spaces**, inst
 
 ## 🔥 Features
 
-- Decentralized identity / social graph using [Lens Protocol 🌿](https://lens.dev/)
+- Decentralized identity using [Flamingo 🦩](https://github.com/wired-labs/flamingo)
 - Open backend, anyone can run their own servers
 - Custom multi-threaded, [glTF](https://github.com/KhronosGroup/glTF)-based game engine
 - [VRM](https://vrm.dev/) avatar support
@@ -18,6 +18,6 @@ The Wired reimagines the web as an **interconnected network of 3D spaces**, inst
 
 :::info
 
-Currently, the Wired only supports Lens Protocol on the **Polygon Mumbai Testnet**. You can visit the [Polygon Faucet](https://faucet.polygon.technology/) to get some free testnet MATIC.
+The Wired is currently in beta, and is live on the **Arbitrum Goerli Testnet**. You can visit the [Arbitrum Goerli Faucet](https://faucet.triangleplatform.com/arbitrum/goerli) to get some free testnet ETH.
 
 :::
