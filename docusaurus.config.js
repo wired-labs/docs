@@ -53,7 +53,7 @@ const config = {
       announcementBar: {
         id: "discord",
         content:
-          '🎉 The Wired has entered early alpha! Join the discord <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/VCsAEneUMn">here</a>.',
+          '🎉 The Wired has entered beta! Join the discord <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/VCsAEneUMn">here</a>.',
         backgroundColor: "#7dd3fc",
         textColor: "#000000",
         isCloseable: true,

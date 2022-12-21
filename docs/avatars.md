@@ -1,5 +1,5 @@
 ---
-sidebar_position: 50
+sidebar_position: 20
 sidebar_label: 💃 Avatars
 title: Avatars
 ---
@@ -12,15 +12,11 @@ You can upload your own VRM avatar to use in the Wired.
 
 The Wired supports both the VRM 0.0 and 1.0 standards.
 
-## 🌿 Publishing
-
-You can publish an avatar as a [Lens Publication](https://docs.lens.xyz/docs/publication). This will make your avatar available to the world, allowing anyone to use it.
-
-Visit [thewired.space/create](https://www.thewired.space/create) to create a new avatar publication.
-
 ## 🚀 Perfomance Ranks
 
 Avatars are categorized into performance ranks, depending on how optimized they are. This is not a perfect system, but it should give you a rough idea of how well an avatar will perform in the Wired.
+
+Players can automatically block avatars with a low performance rank, so it's important to optimize your avatar.
 
 ### Limits
 

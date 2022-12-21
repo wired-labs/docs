@@ -1,5 +1,5 @@
 ---
-sidebar_position: 40
+sidebar_position: 10
 sidebar_label: 🌏 Spaces
 title: Spaces
 ---
@@ -20,9 +20,9 @@ It also works the other direction - you can create models in powerful tools like
 
 Visit [thewired.space/create](https://www.thewired.space/create) to create a new project and start building your space.
 
-## 🌿 Publishing
+## 🏙️ Publishing
 
-Once your scene is ready, you can publish it from the editor as a [Lens Publication](https://docs.lens.xyz/docs/publication). This will make your space available to the world.
+Once your scene is ready, you can publish it to the blockchain for free as an NFT. This will make your space available to the world.
 
 ## 🏗️ Hosting
 
