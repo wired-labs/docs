@@ -10,7 +10,7 @@ The Wired reimagines the web as an **interconnected network of 3D spaces**, inst
 
 ## 🔥 Features
 
-- Decentralized identity using [Flamingo 🦩](https://github.com/wired-labs/flamingo)
+- Decentralized identity using [Flamingo 🦩](/flamingo)
 - Open backend, anyone can run their own servers
 - Custom multi-threaded, [glTF](https://github.com/KhronosGroup/glTF)-based game engine
 - [VRM](https://vrm.dev/) avatar support
